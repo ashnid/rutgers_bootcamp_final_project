@@ -26,14 +26,23 @@ The five years of data from the above sites are used for the analysis.
 These are the major symbols chosen and the above files are chosen:
 
 AAPL
+
 SBUX
+
 MSFT
+
 CSCO
+
 QCOM
+
 Facebook Inc
+
 AMZN
+
 TSLA
+
 AMD
+
 Zynga
 
 In the prediction chart, the users are provided with options to choose the patterns like linear regression, multiple linear regression, and other models available to get the prediction for the next quarters.
